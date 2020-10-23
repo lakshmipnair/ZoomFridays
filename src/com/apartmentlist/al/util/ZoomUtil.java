@@ -16,7 +16,7 @@ public class ZoomUtil
 
     public static void displayChoice() {
         System.out.println("****************************************************");
-        System.out.println("                Apartment List                      ");
+        System.out.println("                Friday Zoom Meeting                      ");
         System.out.println("****************************************************");
         System.out.println("Choose any option from the list:");
         System.out.println("1. View all employees");
